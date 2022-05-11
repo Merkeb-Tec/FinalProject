@@ -31,7 +31,8 @@ ul {
     padding: 0;
     background-color: rgb(189, 188, 188); /* why isn't this woring??*/
     height: 40px;
-    border-radius: 0px;
+    border-radius: 0 0 5px 5px;
+    margin-bottom: 5px;
     }
 
 li a{
@@ -55,10 +56,12 @@ a:hover {
 a:active {
     color: rgb(215, 183, 140);
 }
-.homeimage {
-    width: 100px;
-    height: 100px;
-}
+/*.homeimage {
+    background-image: url('festival\(3\).jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
+}*/
 
 .learnmore{
     color:rgb(225, 134, 15);
@@ -66,8 +69,50 @@ a:active {
     font-weight:bold;
     font-size: 25px;
     padding-left: 10px;
-   
+   }
+ img {
+    max-width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+     }
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color:rgb(228, 228, 228);
+    color: #555;
+    border-radius: 5px;
+    height: 150px
+        }
+ol {
+    display: inline-block;
+    list-style-type: none;
+    float: left;
 }
+i {
+    letter-spacing: 20px;
+    padding-top: 5px;
+}
+    
+     
+/*.footerlink {
+    text-align: center;
+    color: #555;
+    background-color:rgb(228, 228, 228) ;
+    width: auto;
+}*/
+    
+
+
+
+
+
+
+
+
+
+
 /*.create {
     background-image: url('festival\(3\).jpg');
     background-size: cover;
