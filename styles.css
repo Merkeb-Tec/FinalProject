@@ -1,0 +1,107 @@
+.header {
+    padding: 40px;
+    text-align: left;
+    background: #555;
+    color: rgb(147, 96, 7);
+    border-radius: 5px 5px 0 0;
+        }
+
+.header img {
+    float: left;
+    width: 75px;
+    height: 100px;
+    background: #555;
+            }
+
+.header h1 {
+    position: relative;
+    top: 18px;
+    left:0px;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+            }
+
+.header p {
+    padding-left: 0px;
+    font-family: 'Courier New', Courier, monospace;
+          }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(189, 188, 188); /* why isn't this woring??*/
+    height: 40px;
+    border-radius: 0px;
+    }
+
+li a{
+   display: block;
+   float: left;
+   text-align: center;
+   padding: 8px 10px;
+   color:rgb(43, 42, 42);
+   font-family: 'Courier New', Courier, monospace;
+}
+a:link {
+    color:rgb(43, 42, 42);
+    text-decoration: none;
+}
+a:visited {
+    color:rgb(189, 117, 28);
+}
+a:hover {
+    color: #555;
+}
+a:active {
+    color: rgb(215, 183, 140);
+}
+.homeimage {
+    width: 100px;
+    height: 100px;
+}
+
+.learnmore{
+    color:rgb(225, 134, 15);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold;
+    font-size: 25px;
+    padding-left: 10px;
+   
+}
+/*.create {
+    background-image: url('festival\(3\).jpg');
+    background-size: cover;
+   
+    }*/
+
+
+
+
+
+
+
+/*
+.nav div{
+    height: 4px;
+    background-color: rgb(147, 96, 7);
+    margin: 5px 0;
+    border-radius: 25px;
+}
+.nav {
+    width: 30px;
+    display: block;
+    margin:0em 0 0 1em;
+    float: left;
+    padding-right: 10px;
+    padding-top: -5px;
+    }
+.home {
+    width: 30px;
+        }
+.about {
+    width: 20px;
+}
+.contact {
+    width: 25px;
+}
+*/
