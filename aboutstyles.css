@@ -1,0 +1,18 @@
+.header {
+        padding: 40px;
+        text-align: center;
+        background: rgb(189, 188, 188);
+        color: #555;
+        border-radius: 5px;
+        } 
+div.events{
+    text-align: center;
+    color: #555;
+          }
+img {
+  width: 20%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  border-radius: 5px;
+    }

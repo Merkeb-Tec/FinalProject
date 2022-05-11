@@ -29,7 +29,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: rgb(189, 188, 188); /* why isn't this woring??*/
+    background-color: rgb(189, 188, 188); /* why isn't this working??*/
     height: 40px;
     border-radius: 0 0 5px 5px;
     margin-bottom: 5px;
@@ -60,7 +60,6 @@ a:active {
     background-image: url('festival\(3\).jpg');
     background-repeat: no-repeat;
     background-size: 100%;
-   
 }*/
 
 .learnmore{
@@ -93,17 +92,9 @@ ol {
 i {
     letter-spacing: 20px;
     padding-top: 5px;
-}
+ }
     
      
-/*.footerlink {
-    text-align: center;
-    color: #555;
-    background-color:rgb(228, 228, 228) ;
-    width: auto;
-}*/
-    
-
 
 
 
